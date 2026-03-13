@@ -15,6 +15,11 @@ public class Hello {
         System.out.println("나는 코딩왕자가 될거야");
 
         System.out.println("이걸 외워야 한다 말이야.");
+
+
+
+
+
     }
 
 }
