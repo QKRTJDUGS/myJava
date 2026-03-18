@@ -9,5 +9,14 @@ public class Code02_06 {
 
         result = num1 + num2;
         System.out.println("연산 값은 " + num1 + " + " + num2 + " = " + result);
+
+        result = num1 - num2;
+        System.out.println(num1 + " - " + num2 + " = " + result);
+
+        result = num1 * num2;
+        System.out.println(num1 + " * " + num2 + " = " + result);
+
+        result = num1 / num2;
+        System.out.println(num1 +  " / " + num2 + " = " + result);
     }
 }
