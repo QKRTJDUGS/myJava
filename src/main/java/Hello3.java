@@ -1,9 +1,9 @@
 public class Hello3 { public static void main(String[] args) {
 
-    System.out.println("나는 나는 멋쟁이야. 너는 할 수 있어");
+        System.out.println("여호와를 경외하는 것이 지혜의 근본이요 거룩하신 자를 아는 것이 명철이느니라");
 
-    System.out.println("지혜로운 자와 동행하면 지혜를 얻고 미련한 자와 사귀면 해를 받느니라.");
-
-    System.out.println("너희 중에 누구든지 지혜가 부족하거든 모든 사람에게 후히 주시고 꾸짖지 아니하시는" +
-            " 하나님께 구하라 그리하면 주시리라. 야고보서 1:5");
+        System.out.println("스스로 지혜롭게 여기지 말지어다" +
+                            " 여호와를 경외하며 악을 떠날지어다" +
+                            "이것이 네 몸에 양약이 되어 네 골수를 윤택하게 하리라.");
+    }
 }
