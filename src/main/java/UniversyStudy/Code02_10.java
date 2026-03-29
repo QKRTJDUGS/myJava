@@ -1,3 +1,5 @@
+package UniversyStudy;
+
 import java.util.Scanner;
 
 public class Code02_10 {

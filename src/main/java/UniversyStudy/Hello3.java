@@ -1,3 +1,5 @@
+package UniversyStudy;
+
 public class Hello3 { public static void main(String[] args) {
 
         System.out.println("여호와를 경외하는 것이 지혜의 근본이요 거룩하신 자를 아는 것이 명철이느니라");

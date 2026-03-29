@@ -1,3 +1,5 @@
+package UniversyStudy;
+
 public class Hello {
 
     /*
@@ -8,7 +10,7 @@ public class Hello {
     * */
     public static void main(String[] args) {
 
-        System.out.println("Hello!! My first Java Coding!!");
+        System.out.println("UniversyStudy.Hello!! My first Java Coding!!");
 
         System.out.println("엄준식. 엄마가. 준. 식사.");
 
