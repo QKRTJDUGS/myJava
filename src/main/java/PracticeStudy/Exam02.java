@@ -5,9 +5,13 @@ import java.util.Scanner;
 public class Exam02 {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
-        s = s.next()
+        String a;
+        String b;
 
-        str ="               한글 ABCD efgh                   ";
+        a = s.nextLine();
+        b = s.nextLine();
+
+        a = 
         String cutStr = "";
 
         cutStr = str.trim();
