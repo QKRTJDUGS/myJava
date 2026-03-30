@@ -5,18 +5,19 @@ import java.util.Scanner;
 public class Exam02 {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
-        String a;
-        String b;
-        a = s
+        String a, b;
+        String var1, var2;
+        String x, y;
+
         a = s.nextLine();
         b = s.nextLine();
 
-        a =
-        String cutStr = "";
+        var1 = a.toLowerCase();
+        var2 = b.toLowerCase();
 
-        cutStr = str.trim();
+        x = a.trim();
+        y = b.trim();
+        System.out.println(a + b);
 
-        System.out.println("기존 문자열 ==> [" + str + "]");
-        System.out.println("공백 제거 ==> [" + cutStr + "]");
     }
 }
