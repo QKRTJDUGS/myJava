@@ -18,7 +18,7 @@ public class Exam02 {
         x = var1.trim();
         y = var2.trim();
         System.out.println(x + y);
-
+        s.close();
    }
 }
 
