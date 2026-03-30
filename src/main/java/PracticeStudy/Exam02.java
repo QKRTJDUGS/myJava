@@ -11,7 +11,7 @@ public class Exam02 {
         a = s.nextLine();
         b = s.nextLine();
 
-        a = 
+        a =
         String cutStr = "";
 
         cutStr = str.trim();
