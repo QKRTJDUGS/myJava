@@ -2,7 +2,7 @@ package PracticeStudy;
 
 public class Exam02 {
     public static void main(String[] args) {
-        String str =" 한글 ABCD efgh   ";
+        String str ="               한글 ABCD efgh                   ";
         String cutStr = "";
 
         cutStr = str.trim();
