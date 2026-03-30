@@ -19,5 +19,7 @@ public class Exam02 {
         y = var2.trim();
         System.out.println(x + y);
 
-    }
+   }
 }
+
+
