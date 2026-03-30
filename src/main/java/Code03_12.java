@@ -1,4 +1,4 @@
-package UniversyStudy;
+package UniversityStudy;
 
 import java.util.Scanner;
 

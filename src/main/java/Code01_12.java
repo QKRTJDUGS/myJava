@@ -1,4 +1,4 @@
-package UniversyStudy;
+package UniversityStudy;
 
 public class Code01_12 {
     public static void main(String [] args) {

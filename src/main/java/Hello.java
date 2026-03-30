@@ -1,4 +1,4 @@
-package UniversyStudy;
+package UniversityStudy;
 
 public class Hello {
 

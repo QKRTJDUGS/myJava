@@ -1,4 +1,7 @@
 package PracticeStudy;
 
 public class Exam02 {
+    public static void main(String[] args) {
+        
+    }
 }
