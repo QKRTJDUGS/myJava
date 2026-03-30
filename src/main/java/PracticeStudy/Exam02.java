@@ -15,8 +15,8 @@ public class Exam02 {
         var1 = a.toLowerCase();
         var2 = b.toLowerCase();
 
-        x = a.trim();
-        y = b.trim();
+        x = var1.trim();
+        y = var2.trim();
         System.out.println(x + y);
 
     }
