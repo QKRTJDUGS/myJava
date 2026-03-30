@@ -7,7 +7,7 @@ public class Exam02 {
         Scanner s = new Scanner(System.in);
         String a;
         String b;
-
+        a = s
         a = s.nextLine();
         b = s.nextLine();
 
