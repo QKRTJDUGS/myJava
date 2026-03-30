@@ -1,8 +1,13 @@
 package PracticeStudy;
 
+import java.util.Scanner;
+
 public class Exam02 {
     public static void main(String[] args) {
-        String str ="               한글 ABCD efgh                   ";
+        Scanner s = new Scanner(System.in);
+        s = s.next()
+
+        str ="               한글 ABCD efgh                   ";
         String cutStr = "";
 
         cutStr = str.trim();
