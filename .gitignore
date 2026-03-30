@@ -37,3 +37,8 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### Custom ###
+*.class
+.idea/
+push_errors.log
