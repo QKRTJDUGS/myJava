@@ -1,5 +1,3 @@
-package UniversityStudy;
-
 public class Code01_12 {
     public static void main(String [] args) {
         String ss = "First Java를 공부중입니다.";

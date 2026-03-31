@@ -1,5 +1,3 @@
-package UniversityStudy;
-
 public class Hello {
 
     /*

@@ -1,5 +1,3 @@
-package UniversityStudy;
-
 public class Code04_03 {
     public static void main(String[] args){
         int n1 = 1;

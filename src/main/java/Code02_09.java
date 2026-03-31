@@ -1,5 +1,3 @@
-package UniversityStudy;
-
 public class Code02_09 {
     public static void main(String[] args){
         int number1 = 10, number2 =20;

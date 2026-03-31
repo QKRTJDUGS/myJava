@@ -1,5 +1,3 @@
-package UniversityStudy;
-
 public class Code03_o9 {
     public static void main(String[] args) {
         int num = 20;
