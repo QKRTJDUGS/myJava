@@ -1,4 +1,4 @@
-package PracticeStudy;
+package UniversityStudy;
 
 public class Stringlog {
     public static void main(String [] args){
