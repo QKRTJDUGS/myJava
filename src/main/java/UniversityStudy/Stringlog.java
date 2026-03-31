@@ -8,3 +8,5 @@ public class Stringlog {
 
         int start = log.indexOf("\"");
         int end = log.indexOf("\"", start+1);
+
+        System.out.println();
