@@ -1,3 +1,5 @@
+package PracticeStudy;
+
 public class Stringlog {
     public static void main(String [] args){
 
