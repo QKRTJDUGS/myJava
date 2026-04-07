@@ -11,7 +11,7 @@ public class Exam02 {
 
         if (a % 3 == 0) {
             System.out.println("3의 배수입니다");
-        } else (a % 5 == 0) {
+        } else if (a % 5 == 0) {
             System.out.println("5의 배수입니다.");
         }
 
