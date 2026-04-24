@@ -1,13 +1,14 @@
-public class Exam0134 {
-    public static void main(String[] args) {
-        for (int i = 1; i <= 4; i++) {
-            for (int j = 1; j <= 4 - i; j++) {
-                System.out.print(" ");
+public class Exam0134 { //공개되어있는 자바의 Exam01과 이름이 같은 Class 선언
+    public static void main(String[] args) { //공개되어있고 객체를 생성하지 않고, 반환하지 않음, 자바가 처음 읽는 시작점인 main 메소드
+        for (int i = 1; i <= 4; i++) { // 1. 행 : 행을 생성하는 반복문, 문제에서의 행은 1부터 4까지 총 4번 출력된다
+            for (int j = 1; j <= 4 - i; j++) { // 2. 공백 : 공백은 만드는 반복문, 공백과 i(행)의 관계는 행이 증가하면 공백은 등차적으로 감소한다 그 식은 j <= 4(전체 행)-i(현재 행)을 조건으로 출력한다.
+                System.out.print(" "); //공백을 출력하는 코드로 print를 사용하여 줄바꿈 없이 작성한다.
             }
-            for (int k = 1; k <= 2 * i - 1; k++) {
-                System.out.print("*");
+
+            for (int k = 1; k <= 2 * i - 1; k++) { // 3. 별 출력 : 별과 행(i)의 관계는 행이 증가하면 별은 2씩 증가하여 홀수의 공식이 된다 이는 표현하면. k<=2*i-1 로 홀수만큼 별이 출력되도록 조건을 정한다.
+                System.out.print("*"); //마찬가지로 줄바꿈 없이 가로로 별을 출력한다
             }
-            System.out.println();
-        }
-    }
-}
+            System.out.println(); // 두 개의 내부 for문을 다 작성하면 마지막으로 줄바꿈을 작성하고 나서 다시 바깥 for 문으로 들어가서 i+1 을 한다음 조건에 맞으면 다시 안쪽 for 문으로 들어간다
+        }// 바깥 for 문을 끝마침
+    }// main 메소드를 끝 마침
+}// Exam01 를 끝마침
