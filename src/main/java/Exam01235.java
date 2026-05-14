@@ -1,4 +1,4 @@
-public class Exam02 {
+public class Exam01235 {
     public static void main(String[] args) {
 
         // 분석할 아주 긴 원본 로그 문장을 log라는 이름의 변수에 저장해 둡니다.
@@ -26,3 +26,8 @@ public class Exam02 {
 
     }
 }
+
+
+
+
+
